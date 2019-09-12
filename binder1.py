@@ -7,7 +7,7 @@ from tkinter import *
 import binascii, pyaes, os
 
 new_file = "drop.exe"       # OUTPUT FILE STUB
-key = "0123456789abcdef"    # KEY 16 BYTES
+key = ""    # KEY 16 BYTES
 
 def oOpen(original):
     file = open(original, "rb")
