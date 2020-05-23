@@ -1,14 +1,13 @@
 # SIMPLE-BINDER-DROPER
-Binder/Droper Crypt desenvolvido para python2.x
-Bibliotecas usadas : tkinter, binascii, pyaes, os
-09-2019
+*Binder/Droper Crypt desenvolvido para python2.x*
+* **Bibliotecas usadas : tkinter, binascii, pyaes, os** *
+*09-2019*
 
-#############
-# PARA USAR #
-#############
+###### Para usar
 
-#ALTERE AS LINHAS KEY, NEW_FILE DO ARQUIVO BINDER1.PY CONFORME SUAS NECESSIDADES.
 
-#python binder1.py
+#Altere as linhas KEY e NEW_FILE do arquivo BINDER1.PY conforme suas necessidades.
 
-#COLE O LOCAL DO ARQUIVO ORIGINAL
+```python binder1.py```
+
+*Cole o local do arquivo original*
